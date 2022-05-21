@@ -25,7 +25,7 @@ python manage.py runserver
 open http://localhost:8000
 
 # Live Replit
-https://ChatBotAI-Demo.ahmadfaizal.repl.co
+https://chatBot.teshomeoljira.repl.co
 
 
 ### Note:-
