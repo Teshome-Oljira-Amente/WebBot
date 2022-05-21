@@ -1,6 +1,6 @@
 # Setup
 ```bash
-git clone https://github.com/ahmadfaizalbh/WebBot.git
+git clone https://github.com/Teshome-Oljira-Amente/WebBot
 cd WebBot
 pip install -r requirements.txt
 ```
